@@ -1,0 +1,15 @@
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\bin\Debug\net8.0\Lab01_Ex1.exe
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\bin\Debug\net8.0\Lab01_Ex1.deps.json
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\bin\Debug\net8.0\Lab01_Ex1.runtimeconfig.json
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\bin\Debug\net8.0\Lab01_Ex1.dll
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\bin\Debug\net8.0\Lab01_Ex1.pdb
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.AssemblyInfoInputs.cache
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.AssemblyInfo.cs
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.csproj.CoreCompileInputs.cache
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.sourcelink.json
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.dll
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\refint\Lab01_Ex1.dll
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.pdb
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\Lab01_Ex1.genruntimeconfig.cache
+C:\Devmaster.edu.vn\DEV2409GH-T2356\Dev2409GH_T2356_Csharp\Lesson22\Lab01_Ex1\obj\Debug\net8.0\ref\Lab01_Ex1.dll
